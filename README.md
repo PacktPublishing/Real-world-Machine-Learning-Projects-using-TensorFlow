@@ -23,53 +23,40 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 Prior familiarity with TensorFlow and Machine Learning algorithms
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Minimum Hardware Requirements
+
+### Minimum Hardware Requirements
+
 For successful completion of this course, students will require the computer systems with at least the following:
 
+● OS: Windows,  linux, Mac
 
-OS: Windows,  linux, Mac
+● Processor: intel 
 
+● Memory: 4 GRAM
 
+● Storage: 30 GB
 
-Processor: intel 
+### Recommended Hardware Requirements
 
-
-
-Memory: 4 GRAM
-
-
-
-Storage: 30 GB
-
-
-Recommended Hardware Requirements
 For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
 
+● OS: Windows
 
-OS: Windows
+● Processor: intel CPU + GPU 
 
+● Memory: 4 GRAM
 
+● Storage: 60 GB
 
-Processor: intel CPU + GPU 
+### Software Requirements
 
+● Operating system: windows , linux 
 
+● Browser: Firefox 
 
-Memory: 4 GRAM
+● Anaconda , pycharm 
 
-
-
-Storage: 60 GB
-
-
-Software Requirements
-
-Operating system: windows , linux 
-
-Browser: Firefox 
-
-Anaconda , pycharm 
-
-labelmg
+● labelmg
 
 ## Related Products
 * [Real-World Machine Learning Projects with Scikit-Learn [Video]](https://www.packtpub.com/big-data-and-business-intelligence/real-world-machine-learning-projects-scikit-learn-video?utm_source=github&utm_medium=repository&utm_campaign=9781789131222)
