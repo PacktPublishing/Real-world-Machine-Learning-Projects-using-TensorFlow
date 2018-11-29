@@ -3,7 +3,7 @@ This is the code repository for [Real-World Machine Learning Projects Using Tens
 ## About the Video Course
 Machine learning algorithms and research are mushrooming due to their accuracy at solving problems. This course walks you through developing real- world projects using TensorFlow in your ML projects. 
 
-The initial projects will deal with assessing the viability of expanding your Restaurant business. You will use Linear Regression with an example involving buying and selling property at best prices. You'll master Support Vector Machines through building an e-mail spam filter. Next, you will create algorithms to detect anomalous behavior in server computers. Finally, you'll build a neural network and dataset from scratch for our Traffic Signal Classifier.
+You will create algorithms to detect anomalous behavior in server computers. Finally, you'll build a neural network and dataset from scratch for our Traffic Signal Classifier.
 
 By the end of this course you will be using TensorFlow in real-world scenarios, and you'll be confident enough to use ML Algorithms to build your own projects.
 
@@ -28,7 +28,7 @@ This course has the following software requirements:<br/>
 
 For successful completion of this course, students will require the computer systems with at least the following:
 
-● OS: Windows,  linux, Mac
+● OS: Windows
 
 ● Processor: intel 
 
@@ -42,7 +42,7 @@ For an optimal experience with hands-on labs and other practical activities, we 
 
 ● OS: Windows
 
-● Processor: intel CPU + GPU 
+● Processor: intel CPU + advanced GPU 
 
 ● Memory: 4 GRAM
 
@@ -50,13 +50,12 @@ For an optimal experience with hands-on labs and other practical activities, we 
 
 ### Software Requirements
 
-● Operating system: windows , linux 
+● Operating system: Windows
 
 ● Browser: Firefox 
 
-● Anaconda , pycharm 
+● Anaconda , Pycharm 
 
-● labelmg
 
 ## Related Products
 * [Real-World Machine Learning Projects with Scikit-Learn [Video]](https://www.packtpub.com/big-data-and-business-intelligence/real-world-machine-learning-projects-scikit-learn-video?utm_source=github&utm_medium=repository&utm_campaign=9781789131222)
