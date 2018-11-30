@@ -1,9 +1,9 @@
 # Real-World Machine Learning Projects Using TensorFlow [Video]
 This is the code repository for [Real-World Machine Learning Projects Using TensorFlow [Video]](https://www.packtpub.com/big-data-and-business-intelligence/real-world-machine-learning-projects-using-tensorflow-video?utm_source=github&utm_medium=repository&utm_campaign=9781789340174), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-Machine learning algorithms and research are mushrooming due to their accuracy at solving problems. This course walks you through developing real- world projects using TensorFlow in your ML projects. 
+Machine learning algorithms and research are mushrooming due to their accuracy at solving problems. This course walks you through developing real-world projects using TensorFlow in your ML projects.
 
-You will create algorithms to detect anomalous behavior in server computers. Finally, you'll build a neural network and dataset from scratch for our Traffic Signal Classifier.
+The initial project will deal with assessing the viability of expanding your Restaurant business using a single variable linear regression. You will use Linear Regression with multiple variables with an example involving buying and selling a property at the best prices and use a dataset containing 11 features to deal with it. Next, you will create an algorithm to detect anomalous behavior in server computers using Gaussian methods. Finally, you'll design and build a convolutional Neural Networks model on a Traffic Signal Classifier from scratch.
 
 By the end of this course you will be using TensorFlow in real-world scenarios, and you'll be confident enough to use ML Algorithms to build your own projects.
 
