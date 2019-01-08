@@ -23,7 +23,8 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 Prior familiarity with TensorFlow and Machine Learning algorithms
 ### Technical Requirements
 This course has the following software requirements:<br/>
-
+### the Data_set's used
+https://drive.google.com/drive/folders/13ivg5X5kSbIJM10qDAZ2mpHDG9PA7Sxv?usp=sharing
 ### Minimum Hardware Requirements
 
 For successful completion of this course, students will require the computer systems with at least the following:
